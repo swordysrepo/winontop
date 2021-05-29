@@ -30,6 +30,11 @@ winontop thrones
 or
 winontop games
 ```
+If you want to select the window to bring to the top
+``` 
+winontop Select
+```
+and select the window to bring to the front with your cursor . (wait 5 seconds)
 
 
 ## For help doc
